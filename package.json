@@ -1,0 +1,9 @@
+{
+  "name": "utgs30",
+  "version": "1.0.0",
+  "description": "UTGS30 — Utah Industry Index Tracker",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
